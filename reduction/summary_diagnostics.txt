@@ -1,0 +1,24 @@
+Comparative PN diagnostics summary
+===================================
+
+NGC 2392 (Eskimo Nebula)
+    Halpha_Hbeta = 3.32
+             EBV = 0.1508
+       SII_ratio = 0.6127
+              ne = 4245
+         OIII_Hb = 10.48
+         HeII_Hb = 0.3826
+          NII_Ha = 0.3212
+          HeI_Hb = 0.1273
+
+NGC 3242 (Ghost of Jupiter)
+    Halpha_Hbeta = 3.041
+             EBV = 0.06196
+       SII_ratio = —
+              ne = —
+        SII_note = doublet below S/N threshold (NGC 3242 line cores not detected)
+         OIII_Hb = 12.51
+       OIII_note = 5007 saturated; using 2.98 × F(4959) per Storey & Zeippen 2000
+         HeII_Hb = 0.484
+          NII_Ha = 0.006159
+          HeI_Hb = 0.09405
